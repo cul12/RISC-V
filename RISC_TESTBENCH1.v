@@ -1,7 +1,7 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
 // Company: 
-// Engineer: Anushka Tripathi
+// Engineer: Anushka Gupta
 // 
 // Create Date: 12.03.2025 19:22:42
 // Design Name: 
